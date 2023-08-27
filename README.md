@@ -6,11 +6,9 @@ A flashbot created for the crypto users to withdraw their funds whose wallet got
 ----------------------------------------------------------------------
 [![Demo](https://globalfintechseries.com/wp-content/uploads/6.png)]([https://www.youtube.com/watch?v=chmn3om5VYA")
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 
 What you need to do step by step :
